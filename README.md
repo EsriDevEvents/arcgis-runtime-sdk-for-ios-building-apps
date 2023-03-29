@@ -2,6 +2,11 @@
 
 Source code for the `ArcGIS Runtime SDKs: Building iOS Apps` session from the 2021 Esri Developer Summit.
 
+## Slides and recording
+
+Here you can check the [slides](https://www.esri.com/content/dam/esrisites/en-us/events/conferences/2021/developer-summit/12270-arcgis-runtime-sdk-for-ios-building-apps.pdf) and [recording](https://www.youtube.com/watch?v=Xt1JqS7YJZI).
+
+
 ## Features
 * Display a map ([`AGSMap`](https://developers.arcgis.com/ios/api-reference/interface_a_g_s_map.html) and [`AGSMapView`](https://developers.arcgis.com/ios/api-reference/interface_a_g_s_map_view.html)) using a basemap layer style.
 * Use an [API key](https://developers.arcgis.com/documentation/mapping-apis-and-location-services/security-and-authentication/#api-keys) to [geocode](https://developers.arcgis.com/documentation/mapping-apis-and-location-services/geocode-and-search/geocoding/), [find places](https://developers.arcgis.com/documentation/mapping-apis-and-location-services/geocode-and-search/place-search/), [get routes and directions](https://developers.arcgis.com/documentation/mapping-apis-and-location-services/route-and-directions/routing/), and access [basemap layers](https://developers.arcgis.com/documentation/mapping-apis-and-location-services/maps-scenes-and-layers/basemap-layers/).
